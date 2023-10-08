@@ -1,0 +1,27 @@
+Project Name: Rock-Paper-Scissors Game
+
+Description:
+This Python project implements a simple Rock-Paper-Scissors game that allows users to play against the computer. The game keeps track of the user's score and the computer's score, and it continues until one of them reaches a specified maximum score.
+
+How to Play:
+
+Run the Python script.
+Enter 'y' to start playing.
+Set the maximum score to determine the winner.
+Enter your choice: rock, paper, or scissors.
+The computer will make its choice, and the round's outcome will be displayed.
+Continue playing until one player reaches the maximum score.
+Modules Used:
+
+random: Used to generate random choices for the computer.
+input(): Used to get user input for choices.
+print(): Used to display messages and results.
+Project Files:
+
+rock_paper_scissors.py: The main Python script containing the game logic.
+README.md (or Project_Documentation.pdf): Detailed documentation explaining the project and usage.
+Additional Information:
+
+The game provides feedback after each round, indicating whether the user won, lost, or had a draw with the computer.
+The game is interactive and user-friendly.
+For more details and a step-by-step guide on how the code works, please refer to the project's documentation file (README.md or Project_Documentation.pdf).
